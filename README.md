@@ -23,7 +23,7 @@ A modern Speech-to-Text web application built using Flask and Python. The applic
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Speech-To-Text-AI.git
+git clone https://github.com/suriyaprakashashok/Speech-To-Text-AI.git
 ```
 
 Install dependencies
